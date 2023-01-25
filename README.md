@@ -1,4 +1,4 @@
-# Ian R Melvin
+# Ian Melvin
 
-[![Build 😎](https://github.com/InfiniBrains/UnityBoilerplate/actions/workflows/main.yml/badge.svg)](https://github.com/InfiniBrains/MedicalImageViewer/actions/workflows/main.yml)
+[![Build 😎](https://github.com/IanMelvin/UnityBoilerplate/actions/workflows/main.yml/badge.svg)](https://github.com/InfiniBrains/MedicalImageViewer/actions/workflows/main.yml)
 
